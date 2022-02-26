@@ -13,6 +13,6 @@ if bit == '64bit':
     from mking1 import mking_menu
     mking_menu()
 elif bit == '32bit':
-    from mking1_32 import mking_menu
+    from mking32 import mking_menu
     mking_menu() 
  

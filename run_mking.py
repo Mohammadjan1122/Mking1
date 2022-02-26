@@ -11,8 +11,8 @@ os.system("git pull")
 bit = platform.architecture()[0]
 if bit == '64bit':
     from mking1 import mking_menu
-    mohammad()
+    mking_menu()
 elif bit == '32bit':
-    from mking1 import mking_menu
-    mohammad()
+    from mking1_32 import mking_menu
+    mking_menu() 
  

@@ -1,2 +1,2 @@
-from fast import mking_chek
-mking_chek()
+from mking1 import mking_menu
+mking_menu() 

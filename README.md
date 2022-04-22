@@ -13,11 +13,11 @@ crack fb New
 * ```pkg install git python2 -y```
 * ```git clone https://github.com/Mohammadjan1122/Mking1```
 * ```cd Mking1```
-* ```python2 run_mking.py ```
+* ```python run.py ```
 
 ### Or ; Use Single Command
 ```
-pkg update && pkg install git python2 -y && git clone https://github.com/Mohammadjan1122/Mking1 && cd Mking1 && python2 run_mking.py 
+pkg update && pkg install git python2 -y && git clone https://github.com/Mohammadjan1122/Mking1 && cd Mking1 && python run.py 
 ```
 ### Find Me On :
 [![Github](https://img.shields.io/badge/Github-Mohammadjan1122-green?style=for-the-badge&logo=github)](https://github.com/Mohammadjan1122)
